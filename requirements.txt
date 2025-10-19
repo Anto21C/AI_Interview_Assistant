@@ -1,0 +1,6 @@
+streamlit
+vosk
+sounddevice
+requests
+python-dotenv
+pyttsx3
